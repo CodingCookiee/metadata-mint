@@ -1,0 +1,26 @@
+{
+  "name": "CookieeToken",
+  "symbol": "CT",
+  "description": "A sample token created with metadata on Solana",
+  "image": "https://raw.githubusercontent.com/CodingCookiee/metadata-mint/refs/heads/main/token-image.png",
+  "external_url": "https://yourwebsite.com",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/CodingCookiee/metadata-mint/refs/heads/main/token-image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
